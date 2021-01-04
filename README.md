@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="./images/HelloThere.gif">
+
+### Greetings, my friend!
 
 <!--
 **Burconst/Burconst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
