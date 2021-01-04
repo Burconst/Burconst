@@ -1,6 +1,7 @@
-<!-- <img src="./images/HelloThere.gif"> -->
+![Header](./images/header.png "Header")
 
 ### Greetings, my friend!
+
 
 
 
