@@ -1,5 +1,3 @@
-![Header](./images/header.png "Header")
-
 ### Greetings, my friend!
 
 
